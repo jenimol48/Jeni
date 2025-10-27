@@ -1,0 +1,5 @@
+{
+  "name": "BUS2go – Smart Bus Ticketing System",
+  "description": "A smart and user-friendly Progressive Web App (PWA) designed to simplify public bus travel using RFID-based digital ticketing. It allows passengers to link their RFID travel cards, check balance, recharge instantly, track trips, and view route details.",
+  "requestFramePermissions": []
+}
